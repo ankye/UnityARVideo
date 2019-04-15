@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Suriyun/Riko/Riko.unity
+    guid: fb525e9e99fd28245b6c07e859fd274a
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 0530c6631aed346f7afb624711701e1a
+  m_configObjects: {}
